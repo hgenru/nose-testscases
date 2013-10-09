@@ -1,5 +1,6 @@
 nose-testscases
 ===============
+Nosetests plugin to create different test cases
 
 Install
 ------
